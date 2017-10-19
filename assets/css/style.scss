@@ -3,3 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.header {
+  text-align: center;
+}
+
+.cardText {
+  color:black;
+}
+
+#outputFile {
+  display:none;
+}
